@@ -1,0 +1,5 @@
+# /dev/sda1
+UUID=3f9a8956-2b25-4556-acbe-34520aa8ce75	/         	ext4      	rw,relatime,discard,data=ordered	0 1
+
+# swap file /var/swap
+/var/swap				       	none		swap		defaults				0 0
